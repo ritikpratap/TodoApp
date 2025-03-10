@@ -1,0 +1,43 @@
+.container1 {
+  background-color: #ffffff;
+  padding-left: 1% !important;
+  padding-right: 1% !important;
+}
+.container2 {
+  background-color: #eef7f0;
+}
+.mainHeader{
+  padding-top: 5%;
+  padding-left: 7%;
+  color: #338cbd;
+}
+.innerTopPadding{
+  padding-top: 5%;
+}
+.listItem{
+  border: none !important;
+  padding-left: 0% !important;
+}
+.filterListItem{
+  border: none !important;
+  padding-left: 5% !important;
+}
+.iconStyle{
+  padding-right: 3%;
+  padding-left: 3%;
+}
+.searchBar{
+  padding-top: 5% !important;
+}
+.text{
+  font-size: small;
+}
+.cards{
+  padding-left: 5% !important;
+}
+.cardTextDesc{
+  font-size: 10px;
+}
+.badge{
+  align-items: center;
+}
